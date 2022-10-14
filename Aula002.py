@@ -41,15 +41,9 @@ Resultado = (A*B) - (C*D)
 print(Resultado)
 
 
-
-
-
-
-
 # 6 Escreva um programa em Phyton que leia a idade,emanos,deumapessoa,calcule e exiba o número de dias que uma pessoa já viveu.
 # Considerequeummêstenha30dias.
 
 Idade = int(input('digite sua idade '))
 Resultado = (Idade * 365)
 print(Resultado)
-
