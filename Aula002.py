@@ -29,7 +29,7 @@ Media3 = Nota3 * 0.50
 print(Media1, Media2, Media3)
 
 
-# 4Faça um programa em Phyton que leia 4 variáveis A,B,C e D.Aseguir,calcule e mostre adiferença do produtodeAeBpelo
+# 4 Faça um programa em Phyton que leia 4 variáveis A,B,C e D.Aseguir,calcule e mostre adiferença do produtodeAeBpelo
 # produtodeCeD(A*B-C*D).
 
 A = float(input('digite um valor '))
