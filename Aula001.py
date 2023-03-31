@@ -6,7 +6,7 @@ print("OLa Mundo, ", Nome, SobreNome)
 print("==================================================")
 print("==================================================")
 
-# 1 - pedindo informação para o usuario e pintando na tela
+# 2 - pedindo informação para o usuario e pintando na tela
 Nome = input("digite seu nome : ")
 Endereco = input("digite seu endereço : ")
 Cid = input("digite seu cidade : ")
